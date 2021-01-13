@@ -7,5 +7,9 @@ In this homework I a web application that plays a short javascript quiz game. Th
 https://drive.google.com/file/d/1euKKwH2nXqW_4TYH2qgsDLpbmuUrnD8Q/view
 
 ### URL of GitHub repository
-https://kaiwarren12.github.io/4-webAPI-homework/
+https://github.com/kaiwarren12/Coding-Quiz
+
+### Deployed Application Here
+https://kaiwarren12.github.io/Coding-Quiz/
+
 
